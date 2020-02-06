@@ -1,0 +1,28 @@
+---
+output: github_document
+---
+
+
+# example
+this is an example repo
+
+## subsection
+
+
+- a 
+- list 
+
+1. ordered 
+2. List 
+
+This is **bold** 
+
+#### subsection
+
+*italics*
+
+`r 2 + 2`
+
+```{r}
+plot(cars)
+```

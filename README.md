@@ -1,17 +1,28 @@
-# example
+
+example
+=======
+
 this is an example repo
 
-## subsection
+subsection
+----------
 
+-   a
+-   list
 
-- a 
-- list 
+1.  ordered
+2.  List
 
-1. ordered 
-2. List 
-
-This is **bold** 
+This is **bold**
 
 #### subsection
 
 *italics*
+
+4
+
+``` r
+plot(cars)
+```
+
+![](README_files/figure-markdown_github/unnamed-chunk-1-1.png)
